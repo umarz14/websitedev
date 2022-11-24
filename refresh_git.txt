@@ -1,3 +1,9 @@
 This is a small project just to refresh on git.
 This is just an additional line. 
 hello world
+sometimes when merging you have made a lot of commits
+in one of the branches you can use the 
+flag --squash to make  one commit commpact commits
+ex "git merge feature --squash"
+note that the commit of the head branch wont change
+so youll have to do that on your own
